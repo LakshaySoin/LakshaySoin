@@ -8,4 +8,4 @@ I'm Lakshay Soin, a sophmore at Mission San Jose High School. I am currently int
 - 💬 Ask me about basketball! I have been playing basketball since I can remeber and I follow the NBA closely. We can talk about anything via my email listed below! 
 - 📫 How to reach me: lakshaysoin@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have the cutest dog named after my favorite food! His name is Pickle!
+- ⚡ Fun fact: I have the cutest dog named after one of my favorite foods! His name is Pickle!
