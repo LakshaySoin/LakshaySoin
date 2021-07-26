@@ -1,6 +1,6 @@
 ### Hello There! 👋
 
-[![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshaySoin)](https://github.com/anuraghazra/github-readme-stats)
+![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshaySoin&show_icons=true&theme=radical)
 
 I'm Lakshay Soin, a sophmore at Mission San Jose High School. I am currently interested in Machine Learning/Artificial Intelligence, Quantum Computing, and Robotics.
 
