@@ -1,7 +1,5 @@
 ### Hello There! 👋
 
-![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshaySoin&show_icons=true&theme=radical)
-
 I'm Lakshay Soin, a sophmore at Mission San Jose High School. I am currently interested in Machine Learning/Artificial Intelligence, Quantum Computing, and Robotics.
 
 - 📖 I’m currently studying at Mission San Jose High School and will graduate in 2023
@@ -11,3 +9,7 @@ I'm Lakshay Soin, a sophmore at Mission San Jose High School. I am currently int
 - 📫 How to reach me: lakshaysoin@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have the cutest dog named after one of my favorite foods! His name is Pickle!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshaySoin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshaySoin&show_icons=true&theme=radical)
