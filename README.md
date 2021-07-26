@@ -1,5 +1,7 @@
 ### Hello There! 👋
 
+[![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakshaySoin)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm Lakshay Soin, a sophmore at Mission San Jose High School. I am currently interested in Machine Learning/Artificial Intelligence, Quantum Computing, and Robotics.
 
 - 📖 I’m currently studying at Mission San Jose High School and will graduate in 2023
